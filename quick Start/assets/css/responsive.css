@@ -1,0 +1,186 @@
+/*
+=========================================================================
+                      991px Css
+=========================================================================
+*/
+@media screen and (max-width: 991px) {
+ 
+
+
+
+
+
+}
+/*
+=========================================================================
+                      767px Css
+=========================================================================
+*/
+@media screen and (max-width: 767px) {
+ 
+
+
+
+
+
+}
+/*
+=========================================================================
+                      557px Css
+=========================================================================
+*/
+@media screen and (max-width: 557px) {
+ 
+
+
+
+
+}
+
+
+
+/*
+=========================================================================
+                      320px Css
+=========================================================================
+*/
+@media screen and (max-width: 320px) {
+ 
+
+
+
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+/* @media (min-width: 1281px) {
+  
+  //CSS
+  
+} */
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+/* @media (min-width: 1025px) and (max-width: 1280px) {
+  
+  //CSS
+  
+} */
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+/* @media (min-width: 768px) and (max-width: 1024px) {
+  
+  //CSS
+  
+} */
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+/* @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  //CSS
+  
+} */
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+/* @media (min-width: 481px) and (max-width: 767px) {
+  
+  //CSS
+  
+} */
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+/* @media (min-width: 320px) and (max-width: 480px) {
+  
+  //CSS
+  
+} 
+Bootstrap 4
+
+
+
+@media (min-width: 576px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+
+
+Extra small devices Phones (<768px)	
+Small devices Tablets (≥768px)	
+Medium devices Desktops (≥992px)	
+Large devices Desktops (≥1200px)
+
+
+None (auto)		750px			970px		1170px
+.col-xs-		.col-sm-		.col-md-	.col-lg-
+
+
+
+
+
+
+
+/*
+=========================================================================
+            Contact Form responsive Css
+=========================================================================
+*/
